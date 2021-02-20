@@ -1,5 +1,6 @@
 #### <img src="https://avatars1.githubusercontent.com/u/36942187?v=4">
 # Dylan
+# he/him
 
 #### - 🔭 I’m not working on anything currently.
 #### - 🌱 I’m currently learning Python!
